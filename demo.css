@@ -1,0 +1,22 @@
+.main-menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.main-menu > li{
+    position: relative;
+}
+.main-menu > li:hover ul{
+    display: block;
+
+}
+.main-menu ul{
+    display: none;
+    position: absolute;
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    background: red;
+}

@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.main-content{
+    border: 2px solid #801313;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    list-style: ;
+    
+     
+  
+
+}
+
+
+
+
+

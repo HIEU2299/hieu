@@ -1,0 +1,21 @@
+content span{
+
+}
+.main{
+    
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    margin: 20px;
+    padding: 30px;
+    background: forestgreen url("file:///C:/Users/Admin/Desktop/71097574_2970403259697428_5577332586557997056_n.jpg")no-repeat;
+}
+.first span{
+    color: #F1F;
+    background: #fff url("file:///C:/Users/Admin/Desktop/71097574_2970403259697428_5577332586557997056_n.jpg")no-repeat;
+    
+
+}
+.second span{
+    color: azure
+}

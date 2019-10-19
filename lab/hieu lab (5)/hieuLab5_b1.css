@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.mainbox{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 610px;
+    height: 320px;
+}
+img{
+    width: 150px;
+    height: 205px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: gold;
+}
+img:hover{
+    background-color: aqua;
+}
